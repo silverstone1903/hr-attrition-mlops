@@ -1,0 +1,6 @@
+mlflow
+numpy
+pandas
+matplotlib
+scikit-learn
+fastapi[all]

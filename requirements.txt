@@ -1,0 +1,8 @@
+streamlit
+mlflow
+numpy
+pandas
+matplotlib
+fastapi[all]
+uvicorn
+scikit-learn
