@@ -11,8 +11,9 @@
 This is a modified version of [mnist mlops learning](https://github.com/zademn/mnist-mlops-learning) project. Kudos to [zademn](https://github.com/zademn/mnist-mlops-learning)! <br>
 <br>
 Streamlit URL: [streamlit.gumustas.tech](http://streamlit.gumustas.tech/) <br>
-MLFlow URL: [mlflow.gumustas.tech](http://mlflow.gumustas.tech)
+MLFlow URL: [mlflow.gumustas.tech](http://mlflow.gumustas.tech) <br>
 
+Blog post (in Turkish): [fastapi + MLflow + streamlit + AWS = MLOps](https://silverstone1903.github.io/posts/2021/10/fastapi-mlflow-streamlit-aws/)
 
 ---
 
