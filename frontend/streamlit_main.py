@@ -14,7 +14,7 @@ columns = ['BusinessTravel', 'DailyRate', 'Department', 'DistanceFromHome',
        'MaritalStatus', 'MonthlyIncome', 'NumCompaniesWorked', 'OverTime',
        'StockOptionLevel', 'WorkLifeBalance']
 
-local = True
+local = False
 
 
 if local:
@@ -41,12 +41,14 @@ if page == "Main Page":
     st.markdown("Changelog:")
     st.markdown("* Used [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset) data with selected features.")
     st.markdown("* Model uses features which were selected on my previous [MLOps post (in Turkish)](https://silverstone1903.github.io/posts/2020/08/github-actions-ile-cml).")
-    st.markdown("* Replaced PyTorch DL model to Random Forest Classifer.")
+    st.markdown("* Changed PyTorch DL model to Random Forest Classifer.")
     st.markdown("* DL model parameters were replaced with RF parameters (criteria, maximum features, class weight and number of trees)." )
     st.markdown("* Feature Importance page & endpoint added.")
     st.markdown("* Deployed as IAS to AWS EC2 instance. Runs on t2.micro instance with 2 Network Load Balancers.")
     st.markdown("* Registered domain from [tech](https://get.tech) and added it on Route53 as a hosted zone. (I already used namecheap & name.com from [Github Student Pack](https://education.github.com/pack/offers?sort=popularity&tag=Domains) 😅). ")
     st.markdown("* On [streamlit](http://streamlit.gumustas.tech) you can train a model or get prediction and track experiments on [mlflow](http://mlflow.gumustas.tech).")
+    st.markdown("* [streamlit Weekly Roundup](https://discuss.streamlit.io/t/weekly-roundup-streamlit-cloud-landsat-timelapses-triple-combo-plotters-and-more/18821#model-building-and-training-12)")
+    st.markdown("* Blog post [link](https://silverstone1903.github.io/posts/2021/10/fastapi-mlflow-streamlit-aws) (in Turkish) ")
     
     
     st.markdown(""" <p style="text-align: center;"> Powered by </p> """, unsafe_allow_html=True)
