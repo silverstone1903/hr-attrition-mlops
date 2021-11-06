@@ -36,7 +36,7 @@ uvicorn backend.main:app
 
 MLflow UI
 ```bash
-mlflow ui --backend-store-uri sqlite:///db/backkend.db
+mlflow ui --backend-store-uri sqlite:///db/backend.db
 ```
 
 ## Docker
