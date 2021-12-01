@@ -10,8 +10,10 @@
 
 This is a modified version of [mnist mlops learning](https://github.com/zademn/mnist-mlops-learning) project. Kudos to [zademn](https://github.com/zademn/mnist-mlops-learning)! <br>
 <br>
-Streamlit URL: [streamlit.gumustas.tech](http://streamlit.gumustas.tech/) <br>
-MLFlow URL: [mlflow.gumustas.tech](http://mlflow.gumustas.tech) <br>
+> Due to the monthly cost I shutted down the app. [Screenshots](https://github.com/silverstone1903/hr-attrition-mlops#screenshots) 👇🏻
+>  
+Streamlit URL: ~~[streamlit.gumustas.tech](http://streamlit.gumustas.tech/)~~ <br>
+MLFlow URL: ~~[mlflow.gumustas.tech](http://mlflow.gumustas.tech)~~ <br>
 
 Blog post (in Turkish): [fastapi + MLflow + streamlit + AWS = MLOps](https://silverstone1903.github.io/posts/2021/10/fastapi-mlflow-streamlit-aws/)
 
@@ -53,7 +55,9 @@ docker-compose up
 ![image](resources/arch.png)
 
 # Screenshots
-Due to monthly billing I shutted down the app. Here are the screenshots:
+
+Due to the monthly cost I shutted down the app. Here are the screenshots: 
+
 <img align="center" src="https://raw.githubusercontent.com/silverstone1903/hr-attrition-mlops/master/assets/mlflow.JPG">
 <img align="center" src="https://raw.githubusercontent.com/silverstone1903/hr-attrition-mlops/master/assets/streamlit_1.JPG">
 <img align="center" src="https://raw.githubusercontent.com/silverstone1903/hr-attrition-mlops/master/assets/streamlit_2.JPG">
