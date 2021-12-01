@@ -52,3 +52,11 @@ docker-compose up
 # Architecture
 ![image](resources/arch.png)
 
+# Screenshots
+Due to monthly billing I shutted down the app. Here are the screenshots:
+<img align="center" src="https://raw.githubusercontent.com/silverstone1903/hr-attrition-mlops/master/assets/mlflow.JPG">
+<img align="center" src="https://raw.githubusercontent.com/silverstone1903/hr-attrition-mlops/master/assets/streamlit_1.JPG">
+<img align="center" src="https://raw.githubusercontent.com/silverstone1903/hr-attrition-mlops/master/assets/streamlit_2.JPG">
+<img align="center" src="https://raw.githubusercontent.com/silverstone1903/hr-attrition-mlops/master/assets/streamlit_3.JPG">
+<img align="center" src="https://raw.githubusercontent.com/silverstone1903/hr-attrition-mlops/master/assets/streamlit_4.JPG">
+<img align="center" src="https://raw.githubusercontent.com/silverstone1903/hr-attrition-mlops/master/assets/aws_bill.png">
